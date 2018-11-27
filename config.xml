@@ -10,5 +10,5 @@
             Apache Cordova Team
         </author>
         <content src="index.html" />
-        <access origin="*" />
+    <access origin="http://www.fulldreamsolutions.com/" />
     </widget>
