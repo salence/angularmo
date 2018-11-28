@@ -1,7 +1,7 @@
 
 
  <widget id="com.example.hello" version="0.0.1">
-        <name>Hello Nikola</name>
+        <name>TestWeb</name>
 		<icon src="res/icon.png" />
         <description>
             A sample Apache Cordova application that responds to the deviceready event.
