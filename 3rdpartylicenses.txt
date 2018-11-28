@@ -362,6 +362,8 @@ THE SOFTWARE.
 
 @angular/material/button
 
+@angular/material/menu
+
 @angular/material/dialog
 
 @angular/material/toolbar

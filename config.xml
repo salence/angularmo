@@ -1,7 +1,7 @@
 
 
  <widget id="com.example.hello" version="0.0.1">
-        <name>AngularCLI App</name>
+        <name>HelloWorld</name>
 		<icon src="res/icon.png" />
         <description>
             A sample Apache Cordova application that responds to the deviceready event.
@@ -10,5 +10,8 @@
             Apache Cordova Team
         </author>
         <content src="index.html" />
-    <access origin="http://www.fulldreamsolutions.com/" />
+        <access origin="*" />
+		<allow-intent href="http://*/*" />
+		<allow-intent href="https://*/*" />
+		<allow-navigation href="http://www.fulldreamsolutions.com/*" />
     </widget>
